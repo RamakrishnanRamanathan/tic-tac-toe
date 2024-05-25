@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import { resolve } from "path";
 
 export default defineConfig({
-  // base: '/YOUR_BASE/'
+  base: '/tic-tac-toe/'
   //   build: {
   //     rollupOptions: {
   //       input: {
